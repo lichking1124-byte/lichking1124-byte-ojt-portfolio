@@ -1,0 +1,7 @@
+Student Full Name: Leoj C. Vega
+
+GitHub Repository URL:
+https://github.com/lichking1124-byte/lichking1124-byte-ojt-portfolio
+
+Active Live Deployment URL:
+https://lichking1124-byte.github.io/lichking1124-byte-ojt-portfolio/
